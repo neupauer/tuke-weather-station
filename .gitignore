@@ -1,0 +1,4 @@
+node_modules
+db.json
+yarn.lock
+mix-manifest.json
